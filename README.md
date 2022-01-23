@@ -1,5 +1,5 @@
 To run the analysis you need to:
-1. Install all the packages from requirements.txt file.
+1. Download the files from this repository and install all the packages from requirements.txt file.
 
 2. Download the data file:
 https://www.kaggle.com/damienbeneschi/krakow-ta-restaurans-data-raw?select=TA_restaurants_curated.csv 
