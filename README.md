@@ -1,4 +1,6 @@
 **Positivity analysis for European restaurants reviews**
+
+
 This model was developed by me and Marta Skrodzka-Paruzel as a final project for Data Science course at Software Development Academy. 
 
 The [data file](https://www.kaggle.com/damienbeneschi/krakow-ta-restaurans-data-raw?select=TA_restaurants_curated.csv) was downloaded from [Kaggle](https://www.kaggle.com/) and it contains over 125k records with restaurants information for 31 cities in Europe. The model we developed and trained analyses the review sentiment: positive or non-positive. 
