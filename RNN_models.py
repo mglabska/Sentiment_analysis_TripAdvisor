@@ -1,4 +1,4 @@
-#import gensim.downloader
+import gensim.downloader
 import numpy as np
 from gensim.models import KeyedVectors
 from tensorflow.keras.models import Sequential
@@ -8,8 +8,8 @@ from tensorflow.keras.preprocessing.text import Tokenizer
 from sklearn.metrics import f1_score, cohen_kappa_score, classification_report
 from sklearn.model_selection import train_test_split
 
-# glove = gensim.downloader.load('glove-twitter-200')
-# glove.save("glove.model")
+glove = gensim.downloader.load('glove-twitter-200')
+glove.save("glove.model")
 glove = KeyedVectors.load("glove.model")
 maxlen = 10
 max_words = 10000
