@@ -7,10 +7,12 @@ and save it in a folder named **data**.
 
 3. Run the **preprocessing.py** script to generate the preprocessed data file (you can use *python path_to_file/preprocessing.py* command in any command prompt).
 
-4. Run the **model_impl.py** script.
-
 Alternatively you can use the preprocessed data file from here:
 https://drive.google.com/drive/folders/1EBKB7KR7cryLxCCIFB2vaTCioDwc5wH6?usp=sharing
+
+4. Run the **model_impl.py** script.
+
+
 
 
 For more detailed project description see Projekt SDA.pptx
